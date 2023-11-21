@@ -1,6 +1,6 @@
-# google-colab4kivy
+# google-colab-for-kivy
 
-# Google colob for packaging kivy with buildozer
+# Google colab for packaging kivy with buildozer
 please give a star ⭐ to this repository
 
 <h4>how to use</h4>

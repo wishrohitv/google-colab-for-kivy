@@ -13,4 +13,4 @@ https://colab.research.google.com/drive/16wji2BWd5HHlp7eNqBBcZONCxxCzV-jy?usp=sh
 
 don't forget to share your feedback
 and if you are facing any kind of error then create a issue
-i will try to assist you
+i will try to assist

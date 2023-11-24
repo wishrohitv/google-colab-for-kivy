@@ -1,7 +1,7 @@
 # google-colab-for-kivy
 
 # Google colab for packaging kivy with buildozer
-please give a star ⭐ to this repository
+### please give a star ⭐ to this repository
 
 <h4>how to use</h4>
 

@@ -20,3 +20,7 @@ https://github.com/wishrohitv/google-colab-for-kivy/blob/main/google-colab-for-k
 ** Don't forget to share your feedback
 and if you are facing any kind of error then create a issue
 i will try to assist **
+
+
+🖋️Real Aurthor - kausubh gupta https://gist.github.com/kaustubhgupta/0d06ea84760f65888a2488bac9922c25
+i'm only maintainer

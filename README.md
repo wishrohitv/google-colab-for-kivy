@@ -18,7 +18,7 @@ https://github.com/wishrohitv/google-colab-for-kivy/blob/main/google-colab-for-k
 
 
 ** Don't forget to share your feedback
-and if you are facing any kind of error then create a issue
+and if you are facing any kind of error then create an issue page
 i will try to assist **
 
 

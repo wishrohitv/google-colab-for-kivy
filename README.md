@@ -3,9 +3,9 @@
 # Google colab for packaging kivy with buildozer
 ### please give a star ⭐ to this repository
 
-<h4>how to use</h4>
+<h4>how to use - follow the artile where is detailed guide how to use</h4>
 
-<ul>follow this link and run commands in order</ul>
+<ul>https://threshhold.pythonanywhere.com/post/how-to-convert-kivy-kivymd-into-apk-using-google-colab-2302f6f66a32r</ul>
 
 Direct google colab link-
 

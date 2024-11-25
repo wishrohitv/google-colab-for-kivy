@@ -5,7 +5,7 @@
 
 <h4>how to use - follow the artile where is detailed guide how to use</h4>
 
-<ul>https://threshhold.pythonanywhere.com/post/how-to-convert-kivy-kivymd-into-apk-using-google-colab-2302f6f66a32r</ul>
+<ul>https://threshhold.pythonanywhere.com/post/how-to-convert-kivy-kivymd-into-apk-using-google-colab-2302f6f66a32</ul>
 
 Direct google colab link-
 
